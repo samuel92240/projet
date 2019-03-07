@@ -10,3 +10,5 @@ echo "Mon projet 2";
 
 ?>
 <a href="page.php">Lien verss la page </a>
+<a href="fournisseur.php">Lien verss la page </a>
+<a href="clients.php">Lien verss la page </a>
